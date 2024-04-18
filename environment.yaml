@@ -103,7 +103,7 @@ dependencies:
   - pyobjc-core=10.2=py312h74abf1d_0
   - pyobjc-framework-cocoa=10.2=py312h74abf1d_0
   - pysocks=1.7.1=pyha2e5f31_6
-  - python=3.12.2=h9f0c242_0_cpython
+  - python>=3.10 
   - python-dateutil=2.9.0=pyhd8ed1ab_0
   - python-fastjsonschema=2.19.1=pyhd8ed1ab_0
   - python-json-logger=2.0.7=pyhd8ed1ab_0
